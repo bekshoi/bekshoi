@@ -1,5 +1,3 @@
-[![Board Status](https://dev.azure.com/bekshoi/46520437-f2b9-43e6-9c87-51d9b660c544/e94bae0a-2dbf-4925-bb00-3a99bac82123/_apis/work/boardbadge/758d254f-a881-4445-bd52-1b95f7bbde3f)](https://dev.azure.com/bekshoi/46520437-f2b9-43e6-9c87-51d9b660c544/_boards/board/t/e94bae0a-2dbf-4925-bb00-3a99bac82123/Microsoft.RequirementCategory)
-
 # **Kehitysympäristön opintojakson kehitäjäblogi**
 ## **Oleg Beksh, LTD6020 Kehitysympäristöt, 3 op, syksy 2020**
 ###### Tags: `Kehitysympäristö`
@@ -486,11 +484,6 @@ https://clockify.me/shared/5f9df2bab805cc2d41a7ca22
 ![](https://i.imgur.com/JnO0eom.png)![](https://i.imgur.com/iDMIEea.png)
 ## Viikko 45 *[02.marraskuuta – 08.marraskuuta 2020]*
 ### ma 02.11
-**Teema/aihe/asia:** GitHub, Azure, repositorio
-**Mitä teen:** 
-**Päivän tulokset:**
-**Aikaa käytin:** 02:15
-=======
 **Teema/aihe/asia:** GitHub, Azure, repositorio   
 **Mitä teen:** Jälleen kerran konfiguroin repositoriot uudelleen. Yhdistin ne VSC: hen. Kaikki sujuu paremmin ja nopeammin joka kerta. VSC: n sovellusten prosessi ja toiminnot selkeytyvät. GitHub-ominaisuudet ovat myös selkeämpiä. GitHubilla on desctop-versio..   
 **Päivän tulokset:**   :+1: 
@@ -568,7 +561,6 @@ https://clockify.me/shared/5fa8db0315da725450fc9cf4
 **Päivän tulokset:**  
 **Aikaa käytin:** hh:mm  
 ### Yhteenveto viikosta
-
 ## Malli
 ## Viikko XX *[XX.XXXXkuuta – XX.XXXXkuuta 2020]*
 ### ma
@@ -602,8 +594,8 @@ https://clockify.me/shared/5fa8db0315da725450fc9cf4
 **Päivän tulokset:**  
 **Aikaa käytin:** hh:mm  
 ### su
-**Teema/aihe/asia:**
-**Mitä teen:**
-**Päivän tulokset:**
-**Aikaa käytin:** hh:mm
-### Yhteenveto viikosta 
+**Teema/aihe/asia:**  
+**Mitä teen:**  
+**Päivän tulokset:**  
+**Aikaa käytin:** hh:mm  
+### Yhteenveto viikosta
