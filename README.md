@@ -1,3 +1,4 @@
+[![hackmd-github-sync-badge](https://hackmd.io/RfX6UChKTIWMNHKZKXJ5Fw/badge)](https://hackmd.io/RfX6UChKTIWMNHKZKXJ5Fw)
 [![Board Status](https://dev.azure.com/bekshoi/46520437-f2b9-43e6-9c87-51d9b660c544/e94bae0a-2dbf-4925-bb00-3a99bac82123/_apis/work/boardbadge/758d254f-a881-4445-bd52-1b95f7bbde3f)](https://dev.azure.com/bekshoi/46520437-f2b9-43e6-9c87-51d9b660c544/_boards/board/t/e94bae0a-2dbf-4925-bb00-3a99bac82123/Microsoft.RequirementCategory)
 # **Kehitysympäristön opintojakson kehitäjäblogi**
 ## **Oleg Beksh, LTD6020 Kehitysympäristöt, 3 op, syksy 2020**
@@ -522,9 +523,6 @@ https://clockify.me/shared/5f9df2bab805cc2d41a7ca22
 ### Yhteenveto viikosta 
 https://clockify.me/shared/5fa8db0315da725450fc9cf4
 ![](https://i.imgur.com/tWAqWTw.png)
-
-[![Board Status](https://dev.azure.com/bekshoi/46520437-f2b9-43e6-9c87-51d9b660c544/e94bae0a-2dbf-4925-bb00-3a99bac82123/_apis/work/boardbadge/758d254f-a881-4445-bd52-1b95f7bbde3f)](https://dev.azure.com/bekshoi/46520437-f2b9-43e6-9c87-51d9b660c544/_boards/board/t/e94bae0a-2dbf-4925-bb00-3a99bac82123/Microsoft.RequirementCategory)
-
 ## Viikko 46 *[09.marraskuuta – 15.marraskuuta 2020]*
 ### ma 09.11 
 **Teema/aihe/asia:** Java, Blogi, Ohjelmointi-projekti(Sprint ?)  
