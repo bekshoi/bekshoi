@@ -142,7 +142,6 @@ public class Painoindeksin {
 ### Yhteenveto viikosta
 https://clockify.me/shared/5f5f260eac976e2b88845daa
 ![](https://i.imgur.com/0JscOWa.png)
-
 ## Viikko 38 *[14.syyskuuta – 20.syyskuuta 2020]*
 ### ma 14.9
 **Teema/aihe/asia:** Java ja vähän blogi.   
@@ -247,7 +246,7 @@ https://clockify.me/shared/5f68393e7484d0304bfb0756
 ### ke 23.9
 **Teema/aihe/asia:** Liiketoiminto ja Luento toimintomallista.
 **Mitä teen:** Luento, toimintamallit. Luento oli mielenkiintoinen. Toimintamalleista on paljon ajatuksia. Luin Agilestä, DevOpsista. Täytti blogin.
-**Päivän tulokset:** :+1: 
+**Päivän tulokset:** :+1:   
 **Aikaa käytin:** 01:45
 ### to 24.9
 **Teema/aihe/asia:** DevOps   
@@ -323,7 +322,7 @@ Ja löysin töitä!!!
 **Päivän tulokset:** :-1: :-1: :-1:   
 **Aikaa käytin:** 00:00
 ### Yhteenveto viikosta
-https://clockify.me/shared/5f7a36b3b8b2b10a04136638
+https://clockify.me/shared/5fc4b01d76d8dd5e7dbc10af
 ![](https://i.imgur.com/NJEygAY.png)
 ## Viikko 41 *[05.lokakuuta – 11.lokakuuta 2020]*
 ### ma 05.10
@@ -365,7 +364,6 @@ JAVA - yksi tehtävä. Vähän Azure ja ryhmätyö.
 ### Yhteenveto viikosta
 https://clockify.me/shared/5f8479b62ffaf924dae82ae6
 ![](https://i.imgur.com/M9Acd3W.png)
-
 ## Viikko 42 *[12.lokakuuta – 18.lokakuuta 2020]*
 ### ma 12.10
 **Teema/aihe/asia:** Vain liikeidea, ryhmätöitä   
@@ -442,7 +440,7 @@ https://clockify.me/shared/5f8d19eeb8b2b10a04136d25
 **Päivän tulokset:** :+1:    
 **Aikaa käytin:** 00:15
 ### Yhteenveto viikosta
-https://clockify.me/shared/5f95f655f5532e6811857980
+https://clockify.me/shared/5fc4afa558c3285b1a06b48c
 ![](https://i.imgur.com/USavQa7.png)
 ## Viikko 44 *[26.lokakuuta – 01.marraskuuta 2020]*
 ### ma 26.10
@@ -482,7 +480,7 @@ Toivottavasti ensi viikolla on vihdoin ryhmätyö Azure:ssa.
 **Päivän tulokset :+1:   
 **Aikaa käytin:** 01:45
 ### Yhteenveto viikosta
-https://clockify.me/shared/5f9df2bab805cc2d41a7ca22
+https://clockify.me/shared/5fc4aec858c3285b1a06b48b
 ![](https://i.imgur.com/JnO0eom.png)![](https://i.imgur.com/iDMIEea.png)
 ## Viikko 45 *[02.marraskuuta – 08.marraskuuta 2020]*
 ### ma 02.11
@@ -521,80 +519,195 @@ https://clockify.me/shared/5f9df2bab805cc2d41a7ca22
 **Päivän tulokset:** :+1:  
 **Aikaa käytin:** 00:05
 ### Yhteenveto viikosta 
-https://clockify.me/shared/5fa8db0315da725450fc9cf4
+https://clockify.me/shared/5fc4ae5276d8dd5e7dbc10ae
 ![](https://i.imgur.com/tWAqWTw.png)
 ## Viikko 46 *[09.marraskuuta – 15.marraskuuta 2020]*
 ### ma 09.11 
-**Teema/aihe/asia:** Java, Blogi, Ohjelmointi-projekti(Sprint ?)  
-**Mitä teen:**  
-**Päivän tulokset:**  
-**Aikaa käytin:** 00:15  
+**Teema/aihe/asia:** Java, Blogi, Ohjelmointi-projekti(Sprint ?)HackMD, GitHub, Azure  
+**Mitä teen:** Hän oli pääasiassa mukana HackMD: ssä ja GitHubissa. Oli vähän Azuressa. Oli kokous ryhmätyön osallistujien kanssa. On valitettavaa. Minulla ei ole aikaa ja ilmeisesti pidätän kaikki. Lisäksi ongelmani suomen kanssa. Viestintä epäonnistui. Tämä on huono. Ja käsittelin myös VSC- ja virheenkorjausasetuksia. On mielenkiintoista, että venäjäksi on olemassa slangisana "azur".  
+C:\Users\juha\AppData\Roaming\Code\User\settings.json  
+**Päivän tulokset:**  :-1:   
+**Aikaa käytin:** 02:30  
 ### ti 10.11
-**Teema/aihe/asia:**  
-**Mitä teen:**  
-**Päivän tulokset:**  
-**Aikaa käytin:** hh:mm  
+**Teema/aihe/asia:**  Olio-ohelmointi, Tietokonejärjestelmä, Raportointi  
+**Mitä teen:** Kirjoitin kolme tehtävää Tietokonejärjestelmät-kurssille. Kuunteli Olioohjelmistuksen luentoa. Ilalla työn jalkeen on pakko valminta teksti esitelyksi Raportointin kurssista.Minulle enemmän on mitään ei ole aikaa. Meidän on myös autettava Lenaa työssä ja autettava valmistautumaan Venäjän-matkalle. Yhä useammin olen tullut siihen tulokseen, etten pysty selviytymään opinnoistani. Olen jäljessä opiskelutovereistani. Minulla ei ole perustaitoja ja tietoa. Minulla ei ole aikaa vastaanottaa niitä verkosta yksin.  
+Minun täytyy kirjoittaa jotain, luulen, että minun on luotava luokka käyttäjien rekisteröimiseksi ja valtuuttamiseksi. Olen löytänyt monia esimerkkejä, mutta ne ovat joko verkkosovelluksia tai GUI-sovelluksia varten. En tiedä kumpi puoli lähestyy tämän ongelman ratkaisua. Löysin myös Java-luokan vakioluokan (7.0), mutta en vieläkään ymmärrä kuinka käyttää kaikkea. Desktopinsoveluksille ja komentoriville on vaihtoehtoja, mutta ne eivät ole kovin hyviä. Samaan aikaan törmään tietoihin, jotka ovat hiukan ristiriidassa sen kanssa, mitä tiedämme nyt. Esimerkiksi getter ja setter ovat ("anti-pattern OOP") huono tapoja objektiohjelmoinnista? :(   
+Ilmeisesti on lopettava opintoihin. Vanhan hölmön on tiedettävä paikkansa.   
+**Päivän tulokset:**  :-1::-1::-1::-1::-1::-1::-1:  
+**Aikaa käytin:** 00:15  
 ### ke 11.11
-**Teema/aihe/asia:**  
-**Mitä teen:**  
-**Päivän tulokset:**  
+**Teema/aihe/asia:** Olen sairas  
+**Mitä teen:** ei mitään  
+**Päivän tulokset:** :-1:  
 **Aikaa käytin:** hh:mm  
 ### to 12.11
-**Teema/aihe/asia:**  
-**Mitä teen:**  
-**Päivän tulokset:**  
+**Teema/aihe/asia:** Olen sairas  
+**Mitä teen:** ei mitään  
+**Päivän tulokset:** :-1:  
 **Aikaa käytin:** hh:mm  
 ### pe 13.11
-**Teema/aihe/asia:**  
-**Mitä teen:**  
-**Päivän tulokset:**  
-**Aikaa käytin:** hh:mm  
+**Teema/aihe/asia:** Olen sairas  
+**Mitä teen:** ei mitään. En voi ottaa mitään, voimakas heikkous, ilmeisesti ihmisen voiman raja on olemassa. Täysi apatia. En halua mitään. Ei ruokahalua. Pakotan itseni liikkumaan.  
+**Päivän tulokset:** :-1:  
+**Aikaa käytin:** 00:05  
 ### la 14.11
-**Teema/aihe/asia:**  
-**Mitä teen:**  
-**Päivän tulokset:**  
-**Aikaa käytin:** hh:mm  
+**Teema/aihe/asia:** Olioohjelmointi, blogi  
+**Mitä teen:** En muista todella, vain blogi   
+**Päivän tulokset:** :-1:  
+**Aikaa käytin:** 00:05  
 ### su 15.11
-**Teema/aihe/asia:**  
-**Mitä teen:**  
-**Päivän tulokset:**  
-**Aikaa käytin:** hh:mm  
+**Teema/aihe/asia:** Olioohjelmointi, blogi  
+**Mitä teen:**  Yhden tehtävän olioohjlmontista 
+**Päivän tulokset:** :-1:   
+**Aikaa käytin:** 00:15  
 ### Yhteenveto viikosta
-## Malli
-## Viikko XX *[XX.XXXXkuuta – XX.XXXXkuuta 2020]*
-### ma
-**Teema/aihe/asia:**  
-**Mitä teen:**  
-**Päivän tulokset:**  
+https://clockify.me/shared/5fc4adc776d8dd5e7dbc10ac
+![](https://i.imgur.com/L5GYV7Z.png)
+## Viikko 47 *[16.marraskuuta – 22.marraskuuta 2020]*
+### ma 16.11
+**Teema/aihe/asia:**   
+**Mitä teen:** Tyhjä viikko, sairastun ja työskentelen, voin tuskin liikkua, ei tutkimusta   
+**Päivän tulokset:** :-1:  
 **Aikaa käytin:** hh:mm  
-### ti
-**Teema/aihe/asia:**  
+### ti 17.11
+**Teema/aihe/asia:** Tyhjä viikko, sairastun ja työskentelen, voin tuskin liikkua, ei tutkimusta    
 **Mitä teen:**  
-**Päivän tulokset:**  
+**Päivän tulokset:** :-1:  
 **Aikaa käytin:** hh:mm  
-### ke
-**Teema/aihe/asia:**  
+### ke 18.11
+**Teema/aihe/asia:** Tyhjä viikko, sairastun ja työskentelen, voin tuskin liikkua, ei tutkimusta    
 **Mitä teen:**  
-**Päivän tulokset:**  
+**Päivän tulokset:** :-1:  
 **Aikaa käytin:** hh:mm  
-### to
-**Teema/aihe/asia:**  
-**Mitä teen:**  
-**Päivän tulokset:**  
-**Aikaa käytin:** hh:mm  
-### pe
-**Teema/aihe/asia:**  
-**Mitä teen:**  
-**Päivän tulokset:**  
-**Aikaa käytin:** hh:mm  
-### la
-**Teema/aihe/asia:**  
-**Mitä teen:**  
-**Päivän tulokset:**  
-**Aikaa käytin:** hh:mm  
-### su
-**Teema/aihe/asia:**  
-**Mitä teen:**  
-**Päivän tulokset:**  
-**Aikaa käytin:** hh:mm  
+### to 19.11
+**Teema/aihe/asia:** Voin paremmin. Otin tehtäviä tietokonejärjestelmien kurssille, blogi  
+**Mitä teen:** Suoritetut tehtävät kolmannelle osalle  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:05  
+### pe 20.11
+**Teema/aihe/asia:** Tietokonejärjestelmät, blogi  
+**Mitä teen:** Suoritetut tehtävät kolmannelle osalle  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:05  
+### la 21.11
+**Teema/aihe/asia:** Tietokonejärjestelmät, blogi, Raportointi  
+**Mitä teen:** Suoritetut tehtävät neljännelle osalle, Raportointin uusitenti. Piti bash-käsikirjoituksesta. Oli mielenkiintoista ymmärtää. No, muistin vähän Linuxin terminaali.  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:05  
+### su 22.11
+**Teema/aihe/asia:** Tietokonejärjestelmät, blogi, Raportointin esittely, Olioohjelmointi  
+**Mitä teen:** Suorittivat velat tietokonejärjestelmissä ja jopa tekivät osan tulevista tehtävistä, suorittivat nykyiset raportointitehtävät. Tein tehtäviä olioohjelmoinnin 3. osalle. Kaiken kaikkiaan hyvä päivä.  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:15  
 ### Yhteenveto viikosta
+https://clockify.me/shared/5fc4abdd58c3285b1a06b488
+![](https://i.imgur.com/VtRc3eb.png)
+## Viikko XX *[23.marraskuuta – 29.marraskuuta 2020]*
+### ma 23.11 Olioohjelmointi
+**Teema/aihe/asia:** Olioohjelmointi  
+**Mitä teen:** Uudelleenohjatut tehtävät jaksolle 3 "Olioohjelmointi". Tajusin periaatteen perinnöllä. Katsoin videoita ja luin materiaalia verkossa.  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:05  
+### ti 24.11
+**Teema/aihe/asia:** Luento  
+**Mitä teen:** Periaatteessa minun piti osallistua luentoon, mutta nukuin yövuoron jälkeen. Ymmärrän edelleen GitHubin ja versionhallinnan itse. Nyt se ei näytä niin vaikealta. Konfiguroitu VSC toimimaan AZURE: n ja GitHubin kanssa. Haluan käsitellä myös GitHubin työpöytäversiota. Ensi silmäyksellä se on melko kätevä.  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 01:35  
+### ke 25.11
+**Teema/aihe/asia:** Vain töissä  
+**Mitä teen:** Olen työskennellyt kovasti. En tuskin nukkunut. Hänen työnsä ja vaimonsa auttaminen hänen työssään.  
+**Päivän tulokset:** :-1:  
+**Aikaa käytin:** 00:05  
+### to 26.11
+**Teema/aihe/asia:** Lepäsin, koska minun täytyy joskus levätä.  
+**Mitä teen:** Ei mitään  
+**Päivän tulokset:** :-1:  
+**Aikaa käytin:** 00:05  
+### pe 27.11
+**Teema/aihe/asia:** Olioohjelmointi, blogi  
+**Mitä teen:** Käsittelen osiota 4.  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:05  
+### la 28.11
+**Teema/aihe/asia:** Olioohjelmointi  
+**Mitä teen:** Käsittelen osiota 4.  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:05  
+### su 29.11
+**Teema/aihe/asia:** Olioohjelmointi  
+**Mitä teen:** Suoritin osan 4, ensi viikolla aion suorittaa atk-järjestelmien tehtäviä kohdista 6 ja 7.  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:05  
+### Yhteenveto viikosta
+https://clockify.me/shared/5fc4aaba76d8dd5e7dbc10a9
+![](https://i.imgur.com/uQaaHPz.png)
+## Viikko XX *[30.marraskuuta – 06.joulukuuta 2020]*
+### ma 30.11
+**Teema/aihe/asia:** Korjasin blogi, Olioohjelmointi  
+**Mitä teen:**  Jostain syystä linkit Clockify-palveluun ovat menneet. Korjattu. Yleensä jotenkin työ tämän ryhmän kanssa ei onnistunut. Kaksi viimeistä ryhmäistuntoa menivät hyvin, mutta ei täällä. Koska kaverit sulkivat johdon pois projektista. Vaikka yleensä aloitin sen, ja projektin kuvaus ja sen repositorio ovat minun. Mutta nyt ja liian myöhäistä yhteyden muodostamista siihen. Luultavasti kirjoitan kirjeen opettajalle, jossa kysytään, miten korvaan passiivisen osallistumiseni projektiin.  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:30  
+### ti 1.12
+**Teema/aihe/asia:** Blogi, suomen kieltä tehtävä  
+**Mitä teen:** Kirjoitin blogi, suoritanut tehtävä "Kielen kahvila":n varten  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:05   
+### ke 2.12
+**Teema/aihe/asia:** Vain töissä  
+**Mitä teen:**  
+**Päivän tulokset:** :-1:  
+**Aikaa käytin:** hh:mm  
+### to 3.12
+**Teema/aihe/asia:** Tietokonejärjestelmät, blogi  
+**Mitä teen:** Kirjoitti esseen osan 6 tehtävistä  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:05  
+### pe 4.12
+**Teema/aihe/asia:** Tietokonejärjestelmät, blogi  
+**Mitä teen:** Kirjoitti esseen osan 6 tehtävistä  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:05  
+### la 5.12
+**Teema/aihe/asia:** Olioohjelmointi, blogi  
+**Mitä teen:** Suoritettu osion 5 tehtävät  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:05  
+### su 6.12
+**Teema/aihe/asia:** Olioohjelmointi, blogi  
+**Mitä teen:** Suoritettu osion 5 tehtävät, Lähetän kaikki Java-tehtävät ja esimerkkejä ratkaisuista GitHubiin. En tiedä, voidaanko tämä laskea "Kehitysympäristöt" -toiminnoksi  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:05  
+### Yhteenveto viikosta
+https://clockify.me/shared/5fcfc94b76d8dd5e7dbc170e
+![](https://i.imgur.com/Jl4d1OD.png)
+## Viikko XX *[07.joulukuuta – 13.joulukuuta 2020]*
+### ma 7.12
+**Teema/aihe/asia:** Vain töissä   
+**Mitä teen:**  
+**Päivän tulokset:** :-1:  
+**Aikaa käytin:** hh:mm  
+### ti 8.12
+**Teema/aihe/asia:** Blogi, suomen kielen tehtävä   
+**Mitä teen:**  
+**Päivän tulokset:** :+1:  
+**Aikaa käytin:** 00:05  
+### ke 9.12
+**Teema/aihe/asia:**  
+**Mitä teen:**  
+**Päivän tulokset:**  
+**Aikaa käytin:** hh:mm  
+### to 10.12
+**Teema/aihe/asia:**  
+**Mitä teen:**  
+**Päivän tulokset:**  
+**Aikaa käytin:** hh:mm  
+### pe 11.12
+**Teema/aihe/asia:**  
+**Mitä teen:**  
+**Päivän tulokset:**  
+**Aikaa käytin:** hh:mm  
+
+### Yhteenveto viikosta
+
+
+### Yhteenveto kursista
